@@ -1,0 +1,7 @@
+Adding first line replaced
+Appending second line 
+Appending third line
+This is the fourth line
+ 
+This is a printf line.
+This line is added to both files
